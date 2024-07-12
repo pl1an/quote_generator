@@ -1,0 +1,43 @@
+body{
+  height: 98vh;
+  background-color: rgb(33, 33, 33);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quote{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin-bottom: 40px;
+}
+
+a{
+  text-align: center;
+  color: grey;
+  padding: 30px;
+}
+.quotetxt{
+  border: 1px solid grey;
+  border-radius: 40px;
+}
+
+button{
+  margin-left: 30px;
+  width: 200px;
+  height: 30px;
+  border: 0px;
+  border-radius: 10px;
+  background-color: grey;
+  color: black;
+  box-shadow: 0px 10px 20px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: rgb(111, 111, 111);
+}
+button:active{
+  background-color: grey;
+}
+
