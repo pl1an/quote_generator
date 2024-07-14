@@ -1,8 +1,25 @@
-# React + Vite
+# Calculadora de Idades
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+### Os usuários devem ser capazes de:
+- Ver uma "quote" aleatória quando entram no site.
+- Gerar uma nova "quote" aleatória ao clicar no botão respectivo.
 
-Currently, two official plugins are available:
+## Versões
+### Screenshots
+- V1: 
+[!v1](/quote_generator/src/assets/screenshotv1.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Updates futuros:
+- Adicionar uma forma de escolher "tags" para as "quotes" geradas.
+- Adicionar uma forma de gerar múltiplas "quotes" de uma vez.
+- Mudar o estilo do botão.
+
+## Conteúdos abordados
+- HTML
+- Formulário ( input, checked, onChange e value )
+- CSS ( alinhamento, posicionamento, disposição )
+- React : startar , JSX , useState e useEffect.
+
+## Autores
+- [pl1an](https://github.com/pl1an)
