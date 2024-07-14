@@ -8,7 +8,7 @@
 ## Versões
 ### Screenshots
 - V1: 
-[!v1](/quote_generator/src/assets/screenshotv1.png)
+![](/quote_generator/src/assets/screenshotv1.png)
 
 ### Updates futuros:
 - Adicionar uma forma de escolher "tags" para as "quotes" geradas.
