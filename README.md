@@ -21,5 +21,6 @@
 - CSS ( alinhamento, posicionamento, disposição )
 - React : startar , JSX , useState e useEffect.
 
-## Autores
+## Autores e créditos
 - [pl1an](https://github.com/pl1an)
+- API usada: [quotable](https://github.com/lukePeavey/quotable)
