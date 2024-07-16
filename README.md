@@ -17,7 +17,6 @@
 
 ## Conteúdos abordados
 - HTML
-- Formulário ( input, checked, onChange e value )
 - CSS ( alinhamento, posicionamento, disposição )
 - React : startar , JSX , useState e useEffect.
 
