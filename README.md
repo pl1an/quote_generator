@@ -1,25 +1,24 @@
-# Calculadora de Idades
+# Quote generator
 
-## Descrição
-### Os usuários devem ser capazes de:
-- Ver uma "quote" aleatória quando entram no site.
-- Gerar uma nova "quote" aleatória ao clicar no botão respectivo.
+## Description
+### Users should be able to:
+- Read a random quote upon entering the site.
+- Generate a new random quote when clicking the respective button.
 
-## Versões
+## Versions
 ### Screenshots
-- V1: 
+- v1: 
 ![](./src/assets/screenshotv1.png)
 
-### Updates futuros:
-- Adicionar uma forma de escolher "tags" para as "quotes" geradas.
-- Adicionar uma forma de gerar múltiplas "quotes" de uma vez.
-- Mudar o estilo do botão.
+### Future updates:
+- Add a tag choice for generated quotes.
+- Batch quote generation.
 
-## Conteúdos abordados
+## Skills
 - HTML
 - CSS ( alinhamento, posicionamento, disposição )
 - React : startar , JSX , useState e useEffect.
 
-## Autores e créditos
-- [pl1an](https://github.com/pl1an)
-- API usada: [quotable](https://github.com/lukePeavey/quotable)
+## Credits and authors
+- Author: [pl1an](https://github.com/pl1an)
+- API: [quotable](https://github.com/lukePeavey/quotable)
