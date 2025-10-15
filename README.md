@@ -1,4 +1,4 @@
-# Quote generator
+# Quote Generator
 
 ## Description
 ### Users should be able to:
@@ -6,8 +6,7 @@
 - Generate a new random quote when clicking the respective button.
 
 ## Live Site
-Check out the project live here:  
-[Random Quotes App](https://random-quotes-ruby.vercel.app/)
+Check out the project live here: [Quote Generator](https://random-quotes-ruby.vercel.app/)
 
 ## How to Run Locally
 ### Prerequisites
@@ -15,22 +14,22 @@ Check out the project live here:
 
 ### Steps
 1. Clone this repository:  
-   \`\`\`bash
+   ```bash
    git clone https://github.com/pl1an/random-quotes.git
-   \`\`\`
+   ```
 2. Navigate into the project folder:  
-   \`\`\`bash
+   ```bash
    cd random-quotes
-   \`\`\`
+   ```
 3. Install dependencies:  
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 4. Start the development server:  
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
-5. Open your browser and go to the link in the terminal.
+   ```
+5. Open your browser and go to the link in your terminal.
 
 ## Versions
 ### Screenshots
