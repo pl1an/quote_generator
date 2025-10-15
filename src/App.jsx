@@ -11,10 +11,13 @@ function App() {
   const [first, setFirst] = useState(true);
 
   const handleGenerate = () => {
-    api.get("/quotes/random").then(response => {
-      setQuote(response.data[0].content);
-      setAutor(response.data[0].author);
-      console.log(response);
+    api.get("/random").then(response => {
+      if (response) {
+        console.log(response.data)
+        setQuote(response.data.content);
+        setAutor(response.data.author);
+        console.log(response);
+      }  
     })
   }
 
